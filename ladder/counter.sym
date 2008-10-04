@@ -1,0 +1,53 @@
+v 20070626 1
+L 300 800 300 0 3 0 0 0 -1 -1
+T 0 1200 5 10 0 0 0 0 1
+device=counter
+L 1600 800 1600 0 3 0 0 0 -1 -1
+P 0 200 200 200 1 0 0
+{
+T 100 250 5 8 0 1 0 0 1
+pinnumber=2
+T 0 200 5 10 0 0 0 0 1
+pinseq=2
+T 0 200 5 10 0 0 0 0 1
+pintype=pas
+T 400 200 5 7 1 1 0 1 1
+pinlabel=DOWN
+}
+P 1900 400 1700 400 1 0 0
+{
+T 1700 450 5 8 0 1 0 0 1
+pinnumber=3
+T 1900 400 5 10 0 0 0 0 1
+pinseq=3
+T 1900 400 5 10 0 0 0 0 1
+pintype=pas
+}
+L 1700 400 1600 400 3 0 0 0 -1 -1
+L 300 200 200 200 3 0 0 0 -1 -1
+T 300 900 8 10 1 1 0 0 1
+refdes=Counter?
+L 1600 800 300 800 3 0 0 0 -1 -1
+L 1600 0 300 0 3 0 0 0 -1 -1
+T 400 400 8 10 1 1 0 1 1
+value=Count=
+P 0 600 200 600 1 0 0
+{
+T 100 650 5 8 0 1 0 0 1
+pinnumber=1
+T 0 600 5 10 0 0 0 0 1
+pintype=pas
+T 0 600 5 10 0 0 0 0 1
+pinseq=1
+T 400 600 5 7 1 1 0 1 1
+pinlabel=UP
+}
+L 300 600 200 600 3 0 0 0 -1 -1
+T 0 1400 5 10 0 0 0 0 1
+use-license=unlimited
+T 0 1800 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 0 1600 5 10 0 0 0 0 1
+dist-license=GPL
+T 0 2000 5 10 0 0 0 0 1
+description=Counter
