@@ -3,7 +3,7 @@ T 950 100 5 4 1 1 0 6 1
 device=AND2
 T 100 2400 5 10 0 0 0 0 1
 description=AND gate with 2 inputs
-T 300 900 8 10 1 1 0 0 1
+T 300 900 5 10 1 1 0 0 1
 refdes=?
 P 1000 500 1300 500 1 0 1
 {
