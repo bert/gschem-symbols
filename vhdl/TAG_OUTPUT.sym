@@ -1,0 +1,23 @@
+v 20070626 1
+L 800 200 900 100 3 0 0 0 -1 -1
+L 200 0 800 0 3 0 0 0 -1 -1
+L 200 0 200 200 3 0 0 0 -1 -1
+L 800 200 200 200 3 0 0 0 -1 -1
+L 900 100 800 0 3 0 0 0 -1 -1
+P 0 100 200 100 1 0 0
+{
+T 302 35 5 10 0 1 0 0 1
+pinnumber=OPAD
+T 302 35 5 10 0 0 0 0 1
+pinseq=1
+}
+T 302 218 5 10 0 1 0 0 1
+device=OPAD
+T 200 100 5 10 0 1 0 6 1
+refdes=P?
+T 100 1000 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 100 800 5 10 0 0 0 0 1
+use-license=unlimited
+T 100 600 5 10 0 0 0 0 1
+dist-license=GPL
