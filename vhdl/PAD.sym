@@ -1,0 +1,32 @@
+v 20070626 1
+T 700 0 5 4 1 1 0 6 1
+device=PAD
+T 100 1400 5 10 0 0 0 0 1
+description=io-pad
+T 500 300 5 10 1 1 0 4 1
+value=*
+P 0 300 300 300 1 0 0
+{
+T 0 300 5 10 0 0 0 0 1
+pintype=io
+T 500 300 5 10 0 1 0 0 1
+pinnumber=1
+T 0 300 5 10 0 0 0 0 1
+pinseq=1
+}
+B 300 100 400 400 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 1000 300 700 300 1 0 0
+{
+T 700 300 5 10 0 0 0 0 1
+pintype=io
+T 900 350 5 10 0 1 0 6 1
+pinnumber=2
+T 700 300 5 10 0 0 0 0 1
+pinseq=2
+}
+T 100 1200 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 100 1000 5 10 0 0 0 0 1
+use-license=unlimited
+T 100 800 5 10 0 0 0 0 1
+dist-license=GPL
