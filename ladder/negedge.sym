@@ -1,0 +1,41 @@
+v 20070626 1
+L 300 400 300 0 3 0 0 0 -1 -1
+T 0 700 5 10 0 0 0 0 1
+device=negedge
+L 700 400 700 0 3 0 0 0 -1 -1
+P 0 200 200 200 1 0 0
+{
+T 100 250 5 8 0 1 0 0 1
+pinnumber=1
+T 0 200 5 10 0 0 0 0 1
+pinseq=1
+T 0 200 5 10 0 0 0 0 1
+pintype=pas
+}
+P 1000 200 800 200 1 0 0
+{
+T 800 250 5 8 0 1 0 0 1
+pinnumber=2
+T 1000 200 5 10 0 0 0 0 1
+pinseq=2
+T 1000 200 5 10 0 0 0 0 1
+pintype=pas
+}
+L 800 200 700 200 3 0 0 0 -1 -1
+L 300 200 200 200 3 0 0 0 -1 -1
+T 500 500 8 10 1 1 0 3 1
+refdes=?
+T 500 200 9 10 1 0 0 4 1
+N
+L 300 400 350 400 3 0 0 0 -1 -1
+L 700 400 650 400 3 0 0 0 -1 -1
+L 350 0 300 0 3 0 0 0 -1 -1
+L 700 0 650 0 3 0 0 0 -1 -1
+T 0 900 5 10 0 0 0 0 1
+use-license=unlimited
+T 0 1300 5 10 0 0 0 0 1
+device=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 0 1100 5 10 0 0 0 0 1
+dist-license=GPL
+T 0 1500 5 10 0 0 0 0 1
+device=Negative edge detection
