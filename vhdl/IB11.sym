@@ -1,0 +1,38 @@
+v 20070626 1
+T 600 0 5 4 1 1 0 6 1
+device=IB11
+T 100 1600 5 10 0 0 0 0 1
+description=1-bit input pin
+T 300 500 5 10 1 1 0 0 1
+refdes=?
+P 0 200 300 200 1 0 0
+{
+T 0 200 5 10 0 0 0 0 1
+pintype=in
+T 350 200 5 10 0 1 0 0 1
+pinlabel=XI0
+T 500 200 5 10 0 1 0 0 1
+pinnumber=1
+T 0 200 5 10 0 0 0 0 1
+pinseq=1
+}
+P 900 200 600 200 1 0 0
+{
+T 600 200 5 10 0 0 0 0 1
+pintype=out
+T 950 200 5 10 0 1 0 0 1
+pinlabel=Z0
+T 800 250 5 10 0 1 0 6 1
+pinnumber=2
+T 600 200 5 10 0 0 0 0 1
+pinseq=2
+}
+L 300 0 300 400 3 0 0 0 -1 -1
+L 300 400 600 200 3 0 0 0 -1 -1
+L 600 200 300 0 3 0 0 0 -1 -1
+T 100 1400 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 100 1200 5 10 0 0 0 0 1
+use-license=unlimited
+T 100 1000 5 10 0 0 0 0 1
+dist-license=GPL
