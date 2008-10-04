@@ -1,0 +1,15 @@
+Symbols for gschem, the gEDA schematic editor suite.
+
+I Added a directory structure to reflect the usage of the symbol.
+
+"components" for component symbols (heavy).
+
+"ladder" for ladder diagram symbols.
+
+"mechanical" for references in schematics to mechanical entities.
+
+"sheets" template drawing sheets.
+
+"units" for representation of sub assemblies.
+
+"vhdl" for schematic entry of VHDL logic.
