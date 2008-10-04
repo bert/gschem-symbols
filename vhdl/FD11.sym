@@ -1,0 +1,53 @@
+v 20070626 1
+T 1100 0 5 4 1 1 0 6 1
+device=FD11
+T 100 2400 5 10 0 0 0 0 1
+description=1-bit D flip-flop
+T 300 1300 5 10 1 1 0 0 1
+refdes=?
+P 1400 900 1100 900 1 0 0
+{
+T 1400 900 5 10 0 0 0 0 1
+pintype=out
+T 1050 900 5 10 0 1 0 6 1
+pinlabel=Q0
+T 1200 950 5 10 0 1 0 0 1
+pinnumber=1
+T 1400 900 5 10 0 0 0 0 1
+pinseq=1
+}
+T 1050 900 9 10 1 0 0 6 1
+Q
+P 0 900 300 900 1 0 0
+{
+T 0 900 5 10 0 0 0 0 1
+pintype=in
+T 350 900 5 10 0 1 0 0 1
+pinlabel=D0
+T 200 950 5 10 0 1 0 6 1
+pinnumber=2
+T 0 900 5 10 0 0 0 0 1
+pinseq=2
+}
+T 350 900 9 10 1 0 0 0 1
+D
+P 0 600 300 600 1 0 0
+{
+T 0 600 5 10 0 0 0 0 1
+pintype=in
+T 350 600 5 10 0 1 0 1 1
+pinlabel=CLK
+T 200 650 5 10 0 1 0 6 1
+pinnumber=3
+T 0 600 5 10 0 0 0 0 1
+pinseq=3
+}
+T 350 600 9 10 1 0 0 0 1
+CLK
+B 300 100 800 1100 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 100 2200 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 100 2000 5 10 0 0 0 0 1
+use-license=unlimited
+T 100 1800 5 10 0 0 0 0 1
+dist-license=GPL
