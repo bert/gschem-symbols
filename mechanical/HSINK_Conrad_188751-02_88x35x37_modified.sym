@@ -1,0 +1,29 @@
+v 20070626 1
+T 2110 350 5 10 0 0 0 0 1
+device=HSINK
+T 700 1400 5 10 1 1 0 0 1
+refdes=?
+T 2100 1600 5 10 0 0 0 0 1
+author=Bert Timmerman
+T 2100 600 5 10 0 0 0 0 1
+numslots=0
+T 2100 1400 5 10 0 0 0 0 1
+description=Heatsink
+T 2100 1200 5 10 0 0 0 0 1
+dist-license=GPL
+T 2100 1000 5 10 0 0 0 0 1
+use-license=unlimited
+T 2100 800 5 10 0 0 0 0 1
+footprint=HSINK_Conrad_188751-02_88x35x37_modified.fp
+B 700 500 1400 800 3 0 0 2 100 100 0 -1 -1 -1 -1 -1
+P 2100 1600 2100 1300 1 0 0
+{
+T 2100 1600 5 10 0 0 270 0 1
+pintype=pas
+T 2100 1245 5 10 0 0 90 6 1
+pinlabel=
+T 2050 1395 5 10 0 0 90 0 1
+pinnumber=1
+T 2100 1600 5 10 0 0 270 0 1
+pinseq=0
+}
