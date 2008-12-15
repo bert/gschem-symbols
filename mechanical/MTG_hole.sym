@@ -1,0 +1,20 @@
+v 20070626 1
+T 310 650 5 10 0 0 0 0 1
+device=MTG
+T 800 100 5 10 1 1 0 0 1
+refdes=?
+T 300 1900 5 10 0 0 0 0 1
+author=Bert Timmerman
+T 300 900 5 10 0 0 0 0 1
+numslots=0
+V 500 200 100 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+L 300 200 700 200 3 0 0 0 -1 -1
+L 500 400 500 0 3 0 0 0 -1 -1
+T 300 1700 5 10 0 0 0 0 1
+description=Mounting hole
+T 300 1500 5 10 0 0 0 0 1
+dist-license=GPL
+T 300 1300 5 10 0 0 0 0 1
+use-license=unlimited
+T 300 1100 5 10 0 0 0 0 1
+footprint=MTG____.fp
