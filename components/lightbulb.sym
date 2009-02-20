@@ -1,0 +1,36 @@
+v 20070626 1
+T 900 1600 5 10 0 0 0 0 1
+device=lightbulb
+T 650 850 8 10 1 1 0 0 1
+refdes=L?
+T 900 1400 5 10 0 0 0 0 1
+description=Generic lightbulb
+P 200 500 400 500 1 0 0
+{
+T 400 450 5 8 0 1 180 0 1
+pinnumber=1
+T 250 1000 5 8 0 0 0 0 1
+pintype=pas
+T 250 1150 5 8 0 0 0 0 1
+pinseq=1
+}
+P 1200 500 1000 500 1 0 0
+{
+T 1000 450 5 8 0 1 180 0 1
+pinnumber=2
+T 1150 550 5 8 0 0 180 8 1
+pintype=pas
+T 1150 700 5 8 0 0 180 8 1
+pinseq=2
+}
+T 900 1800 5 10 0 0 0 0 1
+use-license=unlimited
+T 900 2000 5 10 0 0 0 0 1
+dist-license=GPL
+T 900 2200 5 10 0 0 0 0 1
+symversion=20090220
+T 900 2400 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+V 700 500 299 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+L 500 700 900 300 3 0 0 0 -1 -1
+L 500 300 900 700 3 0 0 0 -1 -1
