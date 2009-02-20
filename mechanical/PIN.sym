@@ -1,0 +1,29 @@
+v 20070626 1
+T 300 1900 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 300 1700 5 10 0 0 0 0 1
+description=Plated pin hole
+T 300 1500 5 10 0 0 0 0 1
+dist-license=GPL
+T 300 1300 5 10 0 0 0 0 1
+use-license=unlimited
+T 300 1100 5 10 0 0 0 0 1
+footprint=PIN____.fp
+T 310 900 5 10 0 0 0 0 1
+device=PIN
+T 300 700 5 10 0 0 0 0 1
+symversion=20090220
+{
+T 1000 400 5 10 0 0 0 0 1
+pinseq=1
+}
+P 400 200 500 200 1 0 0
+{
+T 1000 200 5 10 0 0 0 0 1
+pintype=pas
+T 995 45 5 10 0 0 0 0 1
+pinnumber=1
+}
+V 500 200 40 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+L 420 200 580 200 3 0 0 0 -1 -1
+L 500 280 500 120 3 0 0 0 -1 -1
