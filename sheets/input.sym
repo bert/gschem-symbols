@@ -1,0 +1,25 @@
+v 20070626 1
+T 100 1300 5 10 0 0 0 0 1
+author=Bert Timmerman
+T 100 1100 5 10 0 0 0 0 1
+description=Input label
+T 100 900 5 10 0 0 0 0 1
+dist-license=GPL
+T 100 700 5 10 0 0 0 0 1
+use-license=unlimited
+T 100 500 5 10 0 0 0 0 1
+graphical=1
+P 600 100 800 100 1 0 1
+{
+T 450 50 5 6 0 1 0 0 1
+pinnumber=1
+T 450 50 5 6 0 0 0 0 1
+pinseq=1
+}
+L 0 200 0 0 3 0 0 0 -1 -1
+L 0 200 500 200 3 0 0 0 -1 -1
+L 500 200 600 100 3 0 0 0 -1 -1
+L 600 100 500 0 3 0 0 0 -1 -1
+L 500 0 0 0 3 0 0 0 -1 -1
+T 100 300 5 10 0 0 0 0 1
+symversion=20090227
