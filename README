@@ -4,11 +4,15 @@ I Added a directory structure to reflect the usage of the symbol.
 
 "components" for component symbols (heavy).
 
+"generic" for generic components (light).
+
 "ghdl" for schematic entry of VHDL logic (specific for GHDL).
 
 "ladder" for ladder diagram symbols.
 
 "mechanical" for references in schematics to mechanical entities.
+
+"power" for reference to power/ground symbols.
 
 "sheets" template drawing sheets.
 
