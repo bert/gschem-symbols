@@ -1,1 +1,21 @@
-This directory contains symbols for piping Process and Instrumentation Diagrams (P&IDs).
+This directory contains symbols for piping Process and Instrumentation Diagrams
+(a.k.a. P&IDs).
+
+Symbol name                     Description
+--------------------------------------------------------------------------------
+ball-valve.sym                  ball valve
+check-valve.sym                 check valve
+compressor.sym                  compressor
+fan.sym                         fan
+globe-valve.sym                 globe valve
+pump.sym                        pump
+README                          this file
+valve-3way-hand.sym             generic 3-way valve, hand operated
+valve-3way-L.sym                generic 3-way valve, with L-bore
+valve-3way.sym                  generic 3-way valve
+valve-3way-T.sym                3-way valve, with T-bore
+valve-hand.sym                  generic valve, hand operated
+valve-motor.sym                 generic valve, motor operated
+valve-pneumatical.sym           generic valve, pneumatical operated
+valve-solenoid.sym              generic valve, solenoid operated
+valve.sym                       generic valve
