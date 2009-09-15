@@ -12,6 +12,8 @@ I Added a directory structure to reflect the usage of the symbol.
 
 "mechanical" for references in schematics to mechanical entities.
 
+"piping" for Piping and Process & Instrumentation Diagrams.
+
 "power" for reference to power/ground symbols.
 
 "sheets" template drawing sheets.
