@@ -1,0 +1,94 @@
+v 20070626 1
+T 300 2900 5 10 1 1 0 0 1
+value=ATmega8
+T 300 3100 5 10 1 1 0 0 1
+refdes=U?
+P 0 700 300 700 1 0 0
+{
+T 200 750 5 8 1 1 0 6 1
+pinnumber=9
+T 200 850 5 8 0 1 0 8 1
+pinseq=9
+T 350 700 9 8 1 1 0 0 1
+pinlabel=PB6 (XTAL1/OSC1)
+T 350 700 5 8 0 1 0 2 1
+pintype=io
+}
+P 0 400 300 400 1 0 0
+{
+T 200 450 5 8 1 1 0 6 1
+pinnumber=10
+T 200 550 5 8 0 1 0 8 1
+pinseq=10
+T 350 400 9 8 1 1 0 0 1
+pinlabel=PB7 (XTAL2/TOSC2)
+T 350 400 5 8 0 1 0 2 1
+pintype=io
+}
+P 0 2500 300 2500 1 0 0
+{
+T 200 2550 5 8 1 1 0 6 1
+pinnumber=14
+T 200 2650 5 8 0 1 0 8 1
+pinseq=14
+T 350 2500 9 8 1 1 0 0 1
+pinlabel=PB0 (ICP1)
+T 350 2500 5 8 0 1 0 2 1
+pintype=io
+}
+P 300 2200 0 2200 1 0 1
+{
+T 200 2250 5 8 1 1 0 6 1
+pinnumber=15
+T 200 2350 5 8 0 1 0 8 1
+pinseq=15
+T 350 2200 9 8 1 1 0 0 1
+pinlabel=PB1 (OC1A)
+T 350 2200 5 8 0 1 0 2 1
+pintype=io
+}
+P 300 1900 0 1900 1 0 1
+{
+T 200 1950 5 8 1 1 0 6 1
+pinnumber=16
+T 200 2050 5 8 0 1 0 8 1
+pinseq=16
+T 350 1900 9 8 1 1 0 0 1
+pinlabel=PB2 (SS/OC1B)
+T 350 1900 5 8 0 1 0 2 1
+pintype=io
+}
+P 300 1600 0 1600 1 0 1
+{
+T 200 1650 5 8 1 1 0 6 1
+pinnumber=17
+T 200 1750 5 8 0 1 0 8 1
+pinseq=17
+T 350 1600 9 8 1 1 0 0 1
+pinlabel=PB3 (MOSI/OC2)
+T 350 1600 5 8 0 1 0 2 1
+pintype=io
+}
+P 300 1300 0 1300 1 0 1
+{
+T 200 1350 5 8 1 1 0 6 1
+pinnumber=18
+T 200 1450 5 8 0 1 0 8 1
+pinseq=18
+T 350 1300 9 8 1 1 0 0 1
+pinlabel=PB4 (MISO)
+T 350 1300 5 8 0 1 0 2 1
+pintype=io
+}
+P 300 1000 0 1000 1 0 1
+{
+T 200 1050 5 8 1 1 0 6 1
+pinnumber=19
+T 200 1150 5 8 0 1 0 8 1
+pinseq=19
+T 350 1000 9 8 1 1 0 0 1
+pinlabel=PB5 (SCK)
+T 350 1000 5 8 0 1 0 2 1
+pintype=io
+}
+B 300 100 2000 2700 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1

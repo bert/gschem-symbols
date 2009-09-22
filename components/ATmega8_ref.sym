@@ -1,0 +1,47 @@
+v 20070626 1
+T 300 2300 5 10 0 0 0 0 1
+device=ATmega8
+T 300 1400 5 10 1 1 0 0 1
+value=ATmega8
+T 300 2100 5 10 0 0 0 0 1
+description=Low-power AVR 8-bit Microcontroller
+T 300 1900 5 10 0 0 0 0 1
+footprint=DIP28300____.fp
+T 300 1600 5 10 1 1 0 0 1
+refdes=U?
+P 300 1000 0 1000 1 0 1
+{
+T 205 1045 5 8 1 1 0 6 1
+pinnumber=20
+T 200 1150 5 8 0 1 0 8 1
+pinseq=20
+T 355 995 9 8 1 1 0 0 1
+pinlabel=AVCC
+T 350 1000 5 8 0 1 0 2 1
+pintype=in
+}
+P 300 700 0 700 1 0 1
+{
+T 205 745 5 8 1 1 0 6 1
+pinnumber=21
+T 200 850 5 8 0 1 0 8 1
+pinseq=21
+T 355 695 9 8 1 1 0 0 1
+pinlabel=AREF
+T 350 700 5 8 0 1 0 2 1
+pintype=in
+}
+B 300 100 1200 1200 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 300 400 0 400 1 0 1
+{
+T 205 445 5 8 1 1 0 6 1
+pinnumber=22
+T 200 550 5 8 0 1 0 8 1
+pinseq=22
+T 355 395 9 8 1 1 0 0 1
+pinlabel=AGND
+T 350 400 5 8 0 1 0 2 1
+pintype=in
+}
+T 300 2500 5 10 0 0 0 0 1
+numslots=0
