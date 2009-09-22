@@ -8,7 +8,7 @@ pinnumber=1
 T 200 550 5 8 0 1 0 8 1
 pinseq=1
 T 355 395 9 8 1 1 0 0 1
-pinlabel=PC6 (RESET)
+pinlabel=PC6 (\_RESET\_)
 T 350 400 5 8 0 1 0 2 1
 pintype=io
 }
