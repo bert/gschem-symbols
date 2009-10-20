@@ -1,0 +1,14 @@
+v 20070626 1
+P 900 0 900 100 1 0 0
+T 0 1100 5 10 0 0 0 0 1
+author=Bert Timmerman
+T 0 900 5 10 0 0 0 0 1
+dist-license=GPL
+T 0 700 5 10 0 0 0 0 1
+use-license=unlimited
+T 0 500 5 10 0 0 0 0 1
+description=Light TL tube
+L 0 100 1700 100 3 0 0 0 -1 -1
+L 1700 300 1700 0 3 0 0 0 -1 -1
+L 0 0 0 300 3 0 0 0 -1 -1
+L 0 200 1700 200 3 0 0 0 -1 -1
