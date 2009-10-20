@@ -1,0 +1,12 @@
+v 20070626 1
+L 0 100 400 500 3 0 0 0 -1 -1
+P 100 300 200 300 1 0 0
+L 0 500 400 100 3 0 0 0 -1 -1
+T 0 1300 5 10 0 0 0 0 1
+author=Bert Timmerman
+T 0 1100 5 10 0 0 0 0 1
+dist-license=GPL
+T 0 900 5 10 0 0 0 0 1
+use-license=unlimited
+T 0 700 5 10 0 0 0 0 1
+description=Light
