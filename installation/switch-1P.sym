@@ -1,0 +1,13 @@
+v 20070626 1
+V 100 100 100 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+L 100 100 200 400 3 0 0 0 -1 -1
+L 200 400 300 400 3 0 0 0 -1 -1
+P 0 100 100 100 1 0 0
+T 0 1100 5 10 0 0 0 0 1
+author=Bert Timmerman
+T 0 900 5 10 0 0 0 0 1
+dist-license=GPL
+T 0 700 5 10 0 0 0 0 1
+use-license=unlimited
+T 0 500 5 10 0 0 0 0 1
+description=Single pole switch
