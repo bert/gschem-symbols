@@ -8,9 +8,13 @@ I Added a directory structure to reflect the usage of the symbol.
 
 "ghdl" for schematic entry of VHDL logic (specific for GHDL).
 
+"installation" for floor plans of houses and other real estate.
+
 "ladder" for ladder diagram symbols.
 
 "mechanical" for references in schematics to mechanical entities.
+
+"network" for computer networks.
 
 "piping" for Piping and Process & Instrumentation Diagrams.
 
