@@ -1,0 +1,12 @@
+v 20070626 1
+P 200 100 100 100 1 0 0
+L 100 200 100 0 3 0 0 0 -1 -1
+A 0 100 100 270 180 3 0 0 0 -1 -1
+T 0 900 5 10 0 0 0 0 1
+author=Bert Timmerman
+T 0 700 5 10 0 0 0 0 1
+dist-license=GPL
+T 0 500 5 10 0 0 0 0 1
+use-license=unlimited
+T 0 300 5 10 0 0 0 0 1
+description=Wall outlet with ground pin
