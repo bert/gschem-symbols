@@ -1,0 +1,32 @@
+v 20091004 2
+T 100 2100 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 100 1900 5 10 0 0 0 0 1
+dist-license=GPL
+T 100 1700 5 10 0 0 0 0 1
+use-license=unlimited
+T 100 1500 5 10 0 0 0 0 1
+device=TEST_POINT
+T 100 1300 5 10 0 0 0 0 1
+numslots=0
+T 110 1100 5 10 0 0 0 0 1
+footprint=CON-TP_Keystone_5000_compact_red.fp
+T 100 900 5 10 0 0 0 0 1
+symversion=20090501
+T 200 600 5 10 1 1 0 3 1
+refdes=TP?
+P 200 300 200 0 1 0 1
+{
+T 760 150 5 10 0 0 0 0 1
+pinseq=1
+T 210 0 5 10 0 1 0 0 1
+pinnumber=1
+T 310 200 5 10 0 1 0 0 1
+pintype=pas
+T 500 0 5 10 0 1 0 0 1
+pinlabel=terminal
+}
+L 200 300 300 400 3 0 0 0 -1 -1
+L 300 400 200 500 3 0 0 0 -1 -1
+L 200 500 100 400 3 0 0 0 -1 -1
+L 100 400 200 300 3 0 0 0 -1 -1
