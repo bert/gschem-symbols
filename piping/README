@@ -13,6 +13,7 @@ globe-valve.sym                 globe valve
 pump.sym                        pump
 README                          this file
 reducer-concentric.sym          concentric reducer
+reducer-eccentric.sym           eccentric reducer
 valve-3way-hand.sym             generic 3-way valve, hand operated
 valve-3way-L.sym                generic 3-way valve, with L-bore
 valve-3way.sym                  generic 3-way valve
