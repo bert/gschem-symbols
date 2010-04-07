@@ -8,6 +8,7 @@ cap.sym                         end cap
 check-valve.sym                 check valve
 compressor.sym                  compressor
 fan.sym                         fan
+flange.sym                      flange (single)
 globe-valve.sym                 globe valve
 pump.sym                        pump
 README                          this file
