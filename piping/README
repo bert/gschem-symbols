@@ -4,6 +4,7 @@ This directory contains symbols for piping Process and Instrumentation Diagrams
 Symbol name                     Description
 --------------------------------------------------------------------------------
 ball-valve.sym                  ball valve
+cap.sym                         end cap
 check-valve.sym                 check valve
 compressor.sym                  compressor
 fan.sym                         fan

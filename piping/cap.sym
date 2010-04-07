@@ -1,0 +1,22 @@
+v 20091004 2
+P 0 500 300 500 1 0 0
+{
+T 0 500 5 10 0 0 0 0 1
+pintype=pas
+T 355 495 5 10 0 1 0 0 1
+pinlabel=
+T 205 545 5 10 0 1 0 6 1
+pinnumber=1
+T 0 500 5 10 0 0 0 0 1
+pinseq=1
+}
+L 300 800 300 200 3 0 0 0 -1 -1
+T 395 0 5 10 0 1 0 3 1
+refdes=DN
+T 195 2000 5 10 0 0 0 0 1
+author=Bert Timmerman
+T 195 1800 5 10 0 0 0 0 1
+dist-license=GPL
+T 195 1600 5 10 0 0 0 0 1
+use-license=unlimited
+A 300 500 300 270 180 3 0 0 0 -1 -1
