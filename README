@@ -3,6 +3,10 @@ Symbols for gschem, the gEDA schematic editor suite.
 I Added a directory structure to reflect the usage of the symbol.
 
 "components" for component symbols (heavy).
+  - component symbols without any *_*.sym suffix might have hidden power nets included.
+  - component symbols with a *_np.sym suffix have no power nets included.
+  - component symbols with a *_pp.sym suffix have explicit power pins.
+  - component symbols with a *_pwr.sym suffix are detached power pins (Vcc and GND).
 
 "generic" for generic components (light).
 
