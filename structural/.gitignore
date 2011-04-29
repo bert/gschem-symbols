@@ -1,0 +1,6 @@
+.git
+*~
+*.bak
+*.log
+*.png
+*.sym#
