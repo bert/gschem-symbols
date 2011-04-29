@@ -1,0 +1,38 @@
+v 20091004 2
+P 0 500 200 500 1 0 0
+{
+T 100 300 5 10 0 1 0 6 1
+pinnumber=1
+T 100 500 5 10 0 1 0 6 1
+pinseq=1
+T 0 700 5 10 0 1 0 0 1
+pintype=pas
+T 0 900 5 10 0 1 0 0 1
+pinlabel=unknown
+}
+P 1000 500 800 500 1 0 0
+{
+T 900 300 5 10 0 1 0 0 1
+pinnumber=2
+T 900 500 5 10 0 1 0 0 1
+pinseq=2
+T 900 700 5 10 0 1 0 0 1
+pintype=pas
+T 900 900 5 10 0 1 0 0 1
+pinlabel=unknown
+}
+T 0 1100 5 10 0 0 0 0 1
+device=FLOW_INDICATOR
+T 0 1500 5 10 0 0 0 0 1
+dist-license=GPL
+T 0 1900 5 10 0 0 0 0 1
+author=Bert Timmerman
+T 0 1300 5 10 0 0 0 0 1
+use-license=unlimited
+T 0 1700 5 10 0 0 0 0 1
+email=bert.timmerman@xs4all.nl
+T 500 500 9 10 1 0 0 4 1
+FI
+V 500 500 300 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 500 900 5 10 1 1 0 0 1
+refdes=?

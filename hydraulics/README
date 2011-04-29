@@ -1,0 +1,35 @@
+A gschem symbol library for describing hydraulic circuits.
+
+Symbol name                     Description
+--------------------------------------------------------------------------------
+accumulator.sym                 accumulator
+air-tank.sym                    air tank
+arrow.sym                       flow direction arrow (graphical only)
+check.sym                       check valve
+cooler.sym                      cooler
+cylinder.sym                    cylinder
+directional-3-2.sym             directional 3/2 valve
+directional-check-nc-2-2.sym    directional 2/2 check valve (Normally Closed) 
+directional-check-no-2-2.sym    directional 2/2 check valve (Normally Open)
+directional-nc-2-2.sym          directional 2/2 valve (Normally Closed)
+directional-no-2-2.sym          directional 2/2 valve (Normally Open)
+exhaust.sym                     exhaust
+filter.sym                      filter
+flexible.sym                    flexible or hose
+flow-indicator.sym              flow indicator
+motor-fd.sym                    motor (full displacement)
+motor-vd.sym                    motor (variable displacement)
+orifice.sym                     orifice or flow restriction
+power-transfer-unit-fd.sym      power transfer unit (full displacement)
+power-transfer-unit-vd.sym      power transfer unit (variable displacement)
+pressure-indicator.sym          pressure indicator
+proportional-4-3.sym            proportional 4/3 valve
+pump-fd.sym                     pump (full displacement)
+pump-motor-vd.sym               pump/motor (variable displacement)
+pump-vd.sym                     pump (variable displacement)
+relief.sym                      relief valve (pressure operated)
+reservoir.sym                   reservoir
+temperature-indicator.sym       temperature indicator
+README                          this file
+.git                            here lives the git repository administration
+.gitignore                      let git ignore some file

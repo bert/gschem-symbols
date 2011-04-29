@@ -1,0 +1,27 @@
+v 20091004 2
+P 300 0 300 200 1 0 0
+{
+T 200 100 5 10 0 1 90 0 1
+pinnumber=1
+T 400 100 5 10 0 1 90 0 1
+pinseq=1
+T 600 100 5 10 0 1 90 0 1
+pintype=pas
+T 800 100 5 10 0 1 90 0 1
+pinlabel=unknown
+}
+T 0 1100 5 10 0 0 0 0 1
+device=TEMPERATURE_INDICATOR
+T 0 1300 5 10 0 0 0 0 1
+use-license=unlimited
+T 0 1500 5 10 0 0 0 0 1
+dist-license=GPL
+T 0 1700 5 10 0 0 0 0 1
+email=bert.timmerman@xs4all.nl
+T 0 1900 5 10 0 0 0 0 1
+author=Bert Timmerman
+T 300 500 9 10 1 0 0 4 1
+TI
+V 300 500 300 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 300 900 5 10 1 1 0 0 1
+refdes=?
