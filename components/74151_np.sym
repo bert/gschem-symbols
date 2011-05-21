@@ -1,7 +1,7 @@
 v 20110115 2
 T 300 4200 5 10 1 1 0 0 1
-device=74151
-T 300 4400 5 10 1 1 0 6 1
+value=74151
+T 300 4400 5 10 1 1 0 0 1
 refdes=U?
 T 2300 4600 5 10 0 0 0 0 1
 description=8-to-1 multiplexer
