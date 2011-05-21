@@ -1,7 +1,7 @@
-v 20070626 1
+v 20110115 2
 T 300 4200 5 10 1 1 0 0 1
-device=74151
-T 300 4400 5 10 1 1 0 6 1
+value=74151
+T 300 4400 5 10 1 1 0 0 1
 refdes=U?
 T 2300 4200 5 10 0 0 0 0 1
 description=8-to-1 multiplexer
@@ -168,3 +168,7 @@ pinlabel=C_SEL
 T 350 3200 5 8 0 1 0 2 1
 pintype=in
 }
+T 2300 4400 5 10 0 0 0 0 1
+footprint=DIP16300____.fp
+T 2300 3400 5 10 0 0 0 0 1
+symversion=20110521
