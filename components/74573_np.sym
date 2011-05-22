@@ -1,4 +1,4 @@
-v 20070626 1
+v 20110115 2
 P 0 3200 300 3200 1 0 0
 {
 T 200 3250 5 8 1 1 0 6 1
@@ -206,7 +206,7 @@ refdes=U?
 T 300 5100 5 10 0 0 0 0 1
 pins=20
 T 300 4300 5 10 0 0 0 0 1
-footprint=DIP20
+footprint=DIP20300____.fp
 T 300 4500 5 10 0 0 0 0 1
 description=8-bit D-type latch with tristate outputs
 T 300 5300 5 10 0 0 0 0 1
@@ -214,3 +214,5 @@ numslots=0
 L 350 625 550 625 3 0 0 0 -1 -1
 T 300 3600 5 10 1 1 0 0 1
 value=74573
+T 300 5500 5 10 0 0 0 0 1
+symversion=20110521
