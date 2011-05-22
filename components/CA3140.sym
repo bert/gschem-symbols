@@ -1,15 +1,15 @@
-v 20070626 1
+v 20110115 2
 T 800 200 5 8 1 1 0 0 1
 value=CA3140
-T 200 2400 5 10 0 0 0 0 1
+T 1700 1300 5 10 0 0 0 0 1
 author=Bert Timmerman <bert.timmerman@xs4all.nl>
-T 200 2200 5 10 0 0 0 0 1
+T 1700 1100 5 10 0 0 0 0 1
 description=Operational amplifier
-T 200 2000 5 10 0 0 0 0 1
+T 1700 900 5 10 0 0 0 0 1
 dist-license=GPL
-T 200 1800 5 10 0 0 0 0 1
+T 1700 700 5 10 0 0 0 0 1
 use-license=unlimited
-T 200 1600 5 10 0 0 0 0 1
+T 1700 500 5 10 0 0 0 0 1
 device=OPAMP
 T 200 900 5 10 1 1 0 0 1
 refdes=U?
@@ -47,7 +47,9 @@ pintype=out
 L 200 800 200 0 3 0 0 0 -1 -1
 L 800 400 200 800 3 0 0 0 -1 -1
 L 800 400 200 0 3 0 0 0 -1 -1
-T 200 1400 5 10 0 0 0 0 1
+T 1700 300 5 10 0 0 0 0 1
 net=Vcc:7
-T 200 1200 5 10 0 0 0 0 1
+T 1700 100 5 10 0 0 0 0 1
 net=GND:4
+T 1700 1500 5 10 0 0 0 0 1
+symversion=20110522
