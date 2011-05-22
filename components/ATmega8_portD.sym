@@ -1,4 +1,4 @@
-v 20070626 1
+v 20110115 2
 T 300 3700 5 10 1 1 0 0 1
 value=ATmega8
 T 300 3900 5 10 1 1 0 0 1
@@ -92,3 +92,19 @@ T 350 400 5 8 0 1 0 2 1
 pintype=io
 }
 B 300 0 2000 3600 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 2495 3500 5 10 0 0 0 0 1
+symversion=20110522
+T 2495 3300 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 2495 3100 5 10 0 0 0 0 1
+dist-license=GPL
+T 2495 2900 5 10 0 0 0 0 1
+use-license=unlimited
+T 2500 2500 5 10 0 0 0 0 1
+device=ATmega8
+T 2500 2700 5 10 0 0 0 0 1
+numslots=0
+T 2500 2300 5 10 0 0 0 0 1
+description=Low-power AVR 8-bit Microcontroller
+T 2500 2100 5 10 0 0 0 0 1
+footprint=DIP28300____.fp

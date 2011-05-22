@@ -1,4 +1,4 @@
-v 20070626 1
+v 20110115 2
 T 300 5500 5 10 0 0 0 0 1
 device=ATmega8
 T 300 4600 5 10 1 1 0 0 1
@@ -302,3 +302,11 @@ pinlabel=AGND
 T 2250 700 5 8 0 1 0 8 1
 pintype=in
 }
+T 295 6900 5 10 0 0 0 0 1
+symversion=20110522
+T 295 6700 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 295 6500 5 10 0 0 0 0 1
+dist-license=GPL
+T 295 6300 5 10 0 0 0 0 1
+use-license=unlimited
