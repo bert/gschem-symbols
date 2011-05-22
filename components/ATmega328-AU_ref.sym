@@ -1,4 +1,4 @@
-v 20091004 2
+v 20110115 2
 T 300 2300 5 10 0 0 0 0 1
 device=MICRO
 T 300 1400 5 10 1 1 0 0 1
@@ -45,3 +45,11 @@ pintype=in
 }
 T 300 2500 5 10 0 0 0 0 1
 numslots=0
+T 295 3300 5 10 0 0 0 0 1
+symversion=20110522
+T 295 3100 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 295 2900 5 10 0 0 0 0 1
+dist-license=GPL
+T 295 2700 5 10 0 0 0 0 1
+use-license=unlimited

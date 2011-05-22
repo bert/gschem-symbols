@@ -1,15 +1,15 @@
-v 20091004 2
-T 300 5500 5 10 0 0 0 0 1
+v 20110115 2
+T 2800 3400 5 10 0 0 0 0 1
 device=MICRO
 T 300 4600 5 10 1 1 0 0 1
 value=ATmega328-AU
-T 300 5300 5 10 0 0 0 0 1
+T 2800 3200 5 10 0 0 0 0 1
 description=Low-power AVR 8-bit Microcontroller
-T 300 5100 5 10 0 0 0 0 1
+T 2800 3000 5 10 0 0 0 0 1
 footprint=QFP32.fp
 T 300 4800 5 10 1 1 0 0 1
 refdes=U?
-T 300 5700 5 10 0 0 0 0 1
+T 2800 3600 5 10 0 0 0 0 1
 numslots=0
 P 2600 2100 2300 2100 1 0 0
 {
@@ -320,4 +320,11 @@ T 2250 1700 5 8 0 1 0 8 1
 pintype=io
 }
 B 300 100 2000 4400 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
-
+T 2795 4400 5 10 0 0 0 0 1
+symversion=20110522
+T 2795 4200 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 2795 4000 5 10 0 0 0 0 1
+dist-license=GPL
+T 2795 3800 5 10 0 0 0 0 1
+use-license=unlimited
