@@ -1,20 +1,18 @@
-v 20070626 1
-T 225 350 9 8 1 0 0 0 1
-LM358
+v 20110115 2
 T 200 900 5 10 1 1 0 0 1
 refdes=U?
-T 100 1100 5 10 0 0 0 0 1
-device=LM358
-T 100 1300 5 10 0 0 0 0 1
+T 1700 100 5 10 0 0 0 0 1
+device=OPAMP
+T 1700 300 5 10 0 0 0 0 1
 slot=1
-T 100 1500 5 10 0 0 0 0 1
+T 1700 500 5 10 0 0 0 0 1
 slotdef=2:7,6,5
-T 100 1700 5 10 0 0 0 0 1
+T 1700 700 5 10 0 0 0 0 1
 slotdef=1:1,2,3
-T 100 1900 5 10 0 0 0 0 1
+T 1700 900 5 10 0 0 0 0 1
 numslots=2
-T 100 2100 5 10 0 0 0 0 1
-footprint=DIP08300
+T 1700 1100 5 10 0 0 0 0 1
+footprint=DIP08300____.fp
 P 800 400 1000 400 1 0 1
 {
 T 875 425 5 8 1 1 0 0 1
@@ -42,3 +40,13 @@ L 250 200 350 200 3 0 0 0 -1 -1
 L 200 0 200 800 3 0 0 0 -1 -1
 L 200 800 800 400 3 0 0 0 -1 -1
 L 800 400 200 0 3 0 0 0 -1 -1
+T 1700 1300 5 10 0 0 0 0 1
+use-license=unlimited
+T 1700 1500 5 10 0 0 0 0 1
+dist-license=GPL
+T 1700 1700 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 1700 1900 5 10 0 0 0 0 1
+description=Low Power Dual Operational Amplifier
+T 225 350 5 8 1 1 0 0 1
+value=LM358
