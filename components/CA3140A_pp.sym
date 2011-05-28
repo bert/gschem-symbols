@@ -1,0 +1,94 @@
+v 20110115 2
+T 800 300 5 8 1 1 0 0 1
+value=CA3140A
+T 200 2500 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 200 2300 5 10 0 0 0 0 1
+description=Operational amplifier
+T 200 2100 5 10 0 0 0 0 1
+dist-license=GPL
+T 200 1900 5 10 0 0 0 0 1
+use-license=unlimited
+T 200 1700 5 10 0 0 0 0 1
+device=OPAMP
+T 200 1000 5 10 1 1 0 0 1
+refdes=U?
+P 200 300 0 300 1 0 1
+{
+T 50 325 5 8 1 1 0 0 1
+pinnumber=2
+T 50 325 5 8 0 0 0 0 1
+pinseq=2
+T 100 300 5 10 0 1 0 0 1
+pintype=in
+T 300 300 9 10 1 1 0 4 1
+pinlabel=-
+}
+P 200 700 0 700 1 0 1
+{
+T 50 725 5 8 1 1 0 0 1
+pinnumber=3
+T 50 725 5 8 0 0 0 0 1
+pinseq=3
+T 0 700 5 10 0 1 0 0 1
+pintype=in
+T 300 700 9 10 1 1 0 4 1
+pinlabel=+
+}
+P 800 500 1000 500 1 0 1
+{
+T 950 525 5 8 1 1 0 6 1
+pinnumber=6
+T 875 525 5 8 0 0 0 0 1
+pinseq=1
+T 900 500 5 10 0 1 0 0 1
+pintype=out
+}
+L 200 900 200 100 3 0 0 0 -1 -1
+L 800 500 200 900 3 0 0 0 -1 -1
+L 800 500 200 100 3 0 0 0 -1 -1
+P 400 225 400 100 1 0 1
+{
+T 425 225 5 8 1 1 180 6 1
+pinnumber=1
+T 350 200 5 8 0 0 270 0 1
+pinseq=4
+T 400 200 5 10 0 1 270 0 1
+pintype=in
+}
+P 400 225 400 100 1 0 1
+{
+T 425 100 5 8 1 1 180 6 1
+pinnumber=5
+T 400 200 5 8 0 0 270 0 1
+pinseq=5
+T 400 200 5 10 0 1 270 0 1
+pintype=in
+}
+P 400 775 400 900 1 0 1
+{
+T 425 850 5 8 1 1 0 0 1
+pinnumber=8
+T 400 800 5 8 0 0 90 0 1
+pinseq=6
+T 400 800 5 10 0 1 90 0 1
+pintype=io
+}
+P 600 625 600 900 1 0 1
+{
+T 625 850 5 8 1 1 0 0 1
+pinnumber=7
+T 600 800 5 8 0 0 90 0 1
+pinseq=7
+T 600 800 5 10 0 1 90 0 1
+pintype=pwr
+}
+P 600 360 600 100 1 0 1
+{
+T 625 150 5 8 1 1 180 6 1
+pinnumber=4
+T 600 200 5 8 0 0 270 0 1
+pinseq=4
+T 600 200 5 10 0 1 270 0 1
+pintype=pwr
+}
