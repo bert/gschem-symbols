@@ -1,11 +1,11 @@
 Filename convention for powered components (active).
 
 *.sym contain power nets (netlist).
-*_np.sym contains neihter power nets, nor power pins (powerless).
+*_np.sym contain no power nets, nor power pins (powerless).
 *_pp.sym contain visible power pins (connect).
 *_pwr.sym contain just the power pins for the (active) component.
 
-Passive components contain neihter power pins, nor power nets ;-)
+Passive components contain no power pins, nor power nets ;-)
 
 # EOF #
 
