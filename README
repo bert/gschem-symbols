@@ -1,16 +1,14 @@
-Symbols for gschem, the gEDA schematic editor suite.
+Symbols for gschem, the schematic editor, part of the gEDA suite.
 
 I Added a directory structure to reflect the usage of the symbol.
 
 "components" for component symbols (heavy).
-  - component symbols without any *_*.sym suffix might have hidden power nets included.
-  - component symbols with a *_np.sym suffix have no power nets included.
-  - component symbols with a *_pp.sym suffix have explicit power pins.
-  - component symbols with a *_pwr.sym suffix are detached power pins (Vcc and GND).
 
 "generic" for generic components (light).
 
 "ghdl" for schematic entry of VHDL logic (specific for GHDL).
+
+"hydraulics" for hydraulical circuits.
 
 "installation" for floor plans of houses and other real estate.
 
@@ -24,8 +22,11 @@ I Added a directory structure to reflect the usage of the symbol.
 
 "power" for reference to power/ground symbols.
 
+"structural" for representation of schematized steel structures.
+
 "sheets" template drawing sheets.
 
 "units" for representation of sub assemblies.
 
 "vhdl" for schematic entry of VHDL logic.
+
