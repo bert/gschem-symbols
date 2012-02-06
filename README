@@ -1,5 +1,9 @@
 Symbols for gschem, the schematic editor, part of the gEDA suite.
 
+Following symbols are released under the "GPL v2+" license and unlimited
+usage, for more information see the paragraph below and the "LICENSE"
+file in this repository.
+
 I Added a directory structure to reflect the usage of the symbol.
 
 "components" for component symbols (heavy).
