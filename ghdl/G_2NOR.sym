@@ -1,4 +1,4 @@
-v 20070626 1
+v 20110115 2
 T 1700 100 5 5 1 1 0 6 1
 device=G_2NOR
 T 200 2000 5 10 0 0 0 0 1
@@ -34,7 +34,7 @@ pinnumber=3
 T 1800 450 5 8 0 0 0 2 1
 pinseq=3
 T 1650 500 9 8 0 0 0 6 1
-pinlabel=Y
+pinlabel=YN
 T 1650 500 5 8 0 0 0 8 1
 pintype=out
 }
