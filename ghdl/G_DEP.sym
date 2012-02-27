@@ -10,9 +10,9 @@ P 700 1800 700 1500 1 0 0
 T 700 1800 5 10 0 0 180 0 1
 pintype=in
 T 650 1595 5 10 0 1 90 0 1
-pinnumber=1
+pinnumber=4
 T 700 1800 5 10 0 0 180 0 1
-pinseq=1
+pinseq=4
 T 700 1450 5 10 1 1 0 5 1
 pinlabel=P
 }
@@ -34,9 +34,9 @@ pintype=in
 T 350 1200 5 10 1 1 0 0 1
 pinlabel=D
 T 200 1250 5 10 0 1 0 6 1
-pinnumber=3
+pinnumber=1
 T 0 1200 5 10 0 0 0 0 1
-pinseq=3
+pinseq=1
 }
 P 0 600 300 600 1 0 0
 {
@@ -45,9 +45,9 @@ pintype=in
 T 350 600 5 10 1 1 0 0 1
 pinlabel=E
 T 200 650 5 10 0 1 0 6 1
-pinnumber=4
+pinnumber=3
 T 0 600 5 10 0 0 0 0 1
-pinseq=4
+pinseq=3
 }
 P 1400 1200 1100 1200 1 0 0
 {
