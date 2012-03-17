@@ -1,0 +1,40 @@
+v 20110115 2
+T 700 0 5 4 1 1 0 6 1
+device=G_BUFB
+T 100 1600 5 10 0 0 0 0 1
+description=Single input buffer, inverted input
+T 300 600 5 10 1 1 0 0 1
+refdes=?
+P 0 300 300 300 1 0 0
+{
+T 0 300 5 10 0 0 0 0 1
+pintype=in
+T 350 300 5 10 0 1 0 0 1
+pinlabel=AN
+T 500 300 5 10 0 1 0 0 1
+pinnumber=1
+T 0 300 5 10 0 0 0 0 1
+pinseq=1
+}
+P 1000 300 700 300 1 0 0
+{
+T 550 300 5 10 0 0 0 0 1
+pintype=out
+T 900 300 5 10 0 1 0 0 1
+pinlabel=Y
+T 750 350 5 10 0 1 0 6 1
+pinnumber=2
+T 550 300 5 10 0 0 0 0 1
+pinseq=2
+}
+T 100 1400 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 100 1200 5 10 0 0 0 0 1
+use-license=unlimited
+T 100 1000 5 10 0 0 0 0 1
+dist-license=GPL
+B 300 100 400 400 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 500 300 9 10 1 0 0 4 1
+1
+L 300 300 200 350 6 0 0 0 -1 -1
+L 200 350 200 300 6 0 0 0 -1 -1
