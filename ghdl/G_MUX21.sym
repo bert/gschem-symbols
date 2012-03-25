@@ -2,7 +2,7 @@ v 20110115 2
 T 1100 200 5 4 1 1 0 6 1
 device=G_MUX21
 T 100 2400 5 10 0 0 0 0 1
-description=2-to-1 multiplexer
+description=2 to 1 multiplexer
 T 300 1600 5 10 1 1 0 0 1
 refdes=?
 P 700 0 700 300 1 0 0
