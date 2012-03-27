@@ -2,7 +2,7 @@ v 20110115 2
 T 1100 200 5 4 1 1 0 6 1
 device=G_DPC
 T 100 2400 5 10 0 0 0 0 1
-description=D flip-flop with scan and asynchronous clear and preset
+description=D flip-flop with asynchronous clear and preset
 T 300 1600 5 10 1 1 0 0 1
 refdes=?
 P 700 0 700 300 1 0 0
