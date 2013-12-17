@@ -1,0 +1,65 @@
+v 20110115 2
+P 600 1000 600 800 1 0 0
+{
+T 500 850 5 6 0 0 0 0 1
+pinnumber=3
+T 500 850 5 6 0 0 0 0 1
+pinseq=3
+T 500 850 5 6 1 1 0 0 1
+pinlabel=C
+T 500 850 5 6 0 0 0 0 1
+pintype=pas
+}
+P 600 200 600 0 1 0 1
+{
+T 500 50 5 6 0 0 0 0 1
+pinnumber=1
+T 500 50 5 6 0 0 0 0 1
+pinseq=1
+T 500 50 5 6 1 1 0 0 1
+pinlabel=E
+T 500 50 5 6 0 0 0 0 1
+pintype=pas
+}
+V 500 501 316 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 100 1800 5 10 0 0 0 0 1
+device=NPN_TRANSISTOR
+L 600 200 400 400 3 0 0 0 -1 -1
+L 600 800 400 600 3 0 0 0 -1 -1
+L 400 700 400 300 3 0 0 0 -1 -1
+P 0 500 184 500 1 0 0
+{
+T 100 550 5 6 0 0 0 0 1
+pinnumber=2
+T 100 550 5 6 0 0 0 0 1
+pinseq=2
+T 100 550 5 6 1 1 0 0 1
+pinlabel=B
+T 100 550 5 6 0 0 0 0 1
+pintype=pas
+}
+L 400 500 184 500 3 0 0 0 -1 -1
+T 900 600 5 10 1 1 0 0 1
+refdes=Q?
+H 3 0 0 0 -1 -1 1 -1 -1 -1 -1 -1 5
+M 510,240
+L 601,200
+L 555,295
+L 535,265
+z
+T 900 400 5 10 1 1 0 0 1
+value=BC548
+T 100 2000 5 10 0 0 0 0 1
+description=NPN General Purpose Amplifier
+T 100 1600 5 10 0 0 0 0 1
+numslots=0
+T 100 2200 5 10 0 0 0 0 1
+use-license=unlimited
+T 100 2400 5 10 0 0 0 0 1
+dist-license=GPL
+T 100 2600 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 100 1400 5 10 0 0 0 0 1
+footprint=TO92-EBC-3L____.fp
+T 100 1200 5 10 0 0 0 0 1
+symversion=20131217
