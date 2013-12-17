@@ -1,0 +1,55 @@
+v 20110115 2
+P 500 1000 500 800 1 0 0
+{
+T 400 850 5 6 0 0 0 0 1
+pinnumber=3
+T 400 850 5 6 0 0 0 0 1
+pinseq=3
+T 600 850 5 6 1 1 0 0 1
+pinlabel=Vcc
+T 400 850 5 6 0 0 0 0 1
+pintype=pas
+}
+P 500 200 500 0 1 0 1
+{
+T 400 50 5 6 0 0 0 0 1
+pinnumber=1
+T 400 50 5 6 0 0 0 0 1
+pinseq=1
+T 600 50 5 6 1 1 0 0 1
+pinlabel=GND
+T 400 50 5 6 0 0 0 0 1
+pintype=pas
+}
+T 100 1800 5 10 0 0 0 0 1
+device=DS18B20
+P 0 500 200 500 1 0 0
+{
+T 100 550 5 6 0 0 0 0 1
+pinnumber=2
+T 100 550 5 6 0 0 0 0 1
+pinseq=2
+T 100 550 5 6 1 1 0 6 1
+pinlabel=D0
+T 100 550 5 6 0 0 0 0 1
+pintype=pas
+}
+T 900 600 5 10 1 1 0 0 1
+refdes=U?
+T 900 400 5 10 1 1 0 0 1
+value=DS18B20
+T 100 2000 5 10 0 0 0 0 1
+description=Programmable Resolution 1-Wire Digital Thermometer
+T 100 1600 5 10 0 0 0 0 1
+numslots=0
+T 100 2200 5 10 0 0 0 0 1
+use-license=unlimited
+T 100 2400 5 10 0 0 0 0 1
+dist-license=GPL
+T 100 2600 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 100 1400 5 10 0 0 0 0 1
+footprint=TO92-123-3L____.fp
+T 100 1200 5 10 0 0 0 0 1
+symversion=20131217
+B 200 200 600 600 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
