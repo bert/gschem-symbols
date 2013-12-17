@@ -6,7 +6,7 @@ pinnumber=3
 T 400 850 5 6 0 0 0 0 1
 pinseq=3
 T 600 850 5 6 1 1 0 0 1
-pinlabel=Vcc
+pinlabel=VDD
 T 400 850 5 6 0 0 0 0 1
 pintype=pas
 }
