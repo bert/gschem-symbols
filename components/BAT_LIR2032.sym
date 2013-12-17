@@ -1,0 +1,45 @@
+v 20110115 2
+T 0 2800 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 0 2600 5 10 0 0 0 0 1
+dist-license=GPL
+T 0 2400 5 10 0 0 0 0 1
+use-license=unlimited
+T 0 2200 5 10 0 0 0 0 1
+symversion=20131217
+T 0 2000 5 10 0 0 0 0 1
+device=BATTERY
+T 0 1800 5 10 0 0 0 0 1
+description=Lithion Ion Rechargeable Battery
+T 0 1400 5 10 0 0 0 0 1
+numslots=0
+T 450 450 5 10 1 1 0 1 1
+refdes=B?
+P 200 900 200 700 1 0 0
+{
+T 150 795 5 8 0 1 90 0 1
+pinnumber=1
+T 355 1000 5 8 0 1 0 0 1
+pinlabel=ANODE
+T 350 800 5 8 0 0 0 0 1
+pintype=pas
+T 350 650 5 8 0 0 0 0 1
+pinseq=1
+}
+P 200 0 200 200 1 0 0
+{
+T 150 105 5 8 0 1 90 6 1
+pinnumber=2
+T 655 300 5 8 0 1 0 0 1
+pinlabel=CATHODE
+T 350 150 5 8 0 0 180 8 1
+pintype=pas
+T 350 0 5 8 0 0 180 8 1
+pinseq=2
+}
+L 200 200 200 400 3 0 0 0 -1 -1
+L 200 500 200 700 3 0 0 0 -1 -1
+L 400 500 0 500 3 0 0 0 -1 -1
+L 300 400 100 400 3 0 0 0 -1 -1
+T 0 1600 5 10 0 0 0 0 1
+footprint=BAT_LIR2032____.fp
