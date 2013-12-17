@@ -1,0 +1,108 @@
+v 20110115 2
+B 300 0 1500 2400 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 300 4200 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+P 0 2100 300 2100 1 0 0
+{
+T 100 2100 5 10 0 2 0 0 1
+pintype=in
+T 355 2095 5 10 1 1 0 0 1
+pinlabel=X1
+T 205 2145 5 10 1 1 0 6 1
+pinnumber=1
+T 100 2100 5 10 0 2 0 0 1
+pinseq=1
+}
+P 0 1700 300 1700 1 0 0
+{
+T 0 1700 5 10 0 0 0 0 1
+pintype=in
+T 355 1695 5 10 1 1 0 0 1
+pinlabel=X2
+T 205 1745 5 10 1 1 0 6 1
+pinnumber=2
+T 0 1700 5 10 0 0 0 0 1
+pinseq=2
+}
+P 0 700 300 700 1 0 0
+{
+T 0 700 5 10 0 0 0 0 1
+pintype=pwr
+T 355 695 5 10 1 1 0 0 1
+pinlabel=Vbat
+T 205 745 5 10 1 1 0 6 1
+pinnumber=3
+T 0 700 5 10 0 0 0 0 1
+pinseq=3
+}
+P 2100 300 1800 300 1 0 0
+{
+T 2100 300 5 10 0 0 0 6 1
+pintype=pwr
+T 1745 295 5 10 1 1 0 6 1
+pinlabel=GND
+T 1895 345 5 10 1 1 0 0 1
+pinnumber=4
+T 2100 300 5 10 0 0 0 6 1
+pinseq=4
+}
+P 0 300 300 300 1 0 0
+{
+T 0 300 5 10 0 0 0 0 1
+pintype=pwr
+T 355 295 5 10 1 1 0 0 1
+pinlabel=Vcc
+T 205 345 5 10 1 1 0 6 1
+pinnumber=8
+T 0 300 5 10 0 0 0 0 1
+pinseq=8
+}
+P 2100 2100 1800 2100 1 0 0
+{
+T 2100 2100 5 10 0 0 0 0 1
+pintype=out
+T 1745 2095 5 10 1 1 0 6 1
+pinlabel=SQW/OUT
+T 1895 2145 5 10 1 1 0 0 1
+pinnumber=7
+T 2100 2100 5 10 0 0 0 0 1
+pinseq=7
+}
+P 2100 1700 1800 1700 1 0 0
+{
+T 2100 1700 5 10 0 0 0 0 1
+pintype=in
+T 1745 1695 5 10 1 1 0 6 1
+pinlabel=SCL
+T 1895 1745 5 10 1 1 0 0 1
+pinnumber=6
+T 2100 1700 5 10 0 0 0 0 1
+pinseq=6
+}
+P 2100 1300 1800 1300 1 0 0
+{
+T 2100 1300 5 10 0 0 0 0 1
+pintype=io
+T 1745 1295 5 10 1 1 0 6 1
+pinlabel=SDA
+T 1895 1345 5 10 1 1 0 0 1
+pinnumber=5
+T 2100 1300 5 10 0 0 0 0 1
+pinseq=5
+}
+T 295 3600 5 10 0 0 0 0 1
+description=Real Time Clock
+T 295 3400 5 10 0 0 0 0 1
+footprint=UNKNOWN
+T 295 2700 5 10 1 1 0 0 1
+refdes=U?
+T 295 2500 5 10 1 1 0 0 1
+value=DS1307Z
+T 295 3000 5 10 0 0 0 0 1
+symversion=20131217
+T 300 3200 5 10 0 0 0 0 1
+device=DS1307Z
+T 300 4000 5 10 0 0 0 0 1
+dist-license=GPL
+T 300 3800 5 10 0 0 0 0 1
+use-license=unlimited
