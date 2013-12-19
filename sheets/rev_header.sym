@@ -1,0 +1,25 @@
+v 20110115 2
+T 100 2000 5 10 0 0 0 0 1
+author=Bert Timmerman
+T 100 1800 5 10 0 0 0 0 1
+description=Revision table header
+T 100 1600 5 10 0 0 0 0 1
+dist-license=GPL
+T 100 1400 5 10 0 0 0 0 1
+use-license=unlimited
+T 100 1200 5 10 0 0 0 0 1
+graphical=1
+T 100 1000 5 10 0 0 0 0 1
+symversion=20120310
+B 0 0 7600 400 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+L 600 0 600 400 3 0 0 0 -1 -1
+T 100 200 9 10 1 0 0 1 1
+REV.
+T 700 200 9 10 1 0 0 1 1
+DATE
+L 1800 0 1800 400 3 0 0 0 -1 -1
+T 1900 200 9 10 1 0 0 1 1
+AUTHOR
+L 2800 0 2800 400 3 0 0 0 -1 -1
+T 2900 200 9 10 1 0 0 1 1
+DESCRIPTION
