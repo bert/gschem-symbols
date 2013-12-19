@@ -54,4 +54,6 @@ numslots=0
 T 100 2100 5 8 0 0 0 0 1
 description=3-Terminal Adjustable Regulator
 T 100 1300 5 8 0 0 0 0 1
-footprint=UNKNOWN
+footprint=TO220-3N____standing.fp
+T 100 1100 5 8 0 0 0 0 1
+symversion=20131219
