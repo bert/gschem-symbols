@@ -2,7 +2,7 @@ v 20110115 2
 T 1100 0 5 4 1 1 0 6 1
 device=G_TP
 T 100 2200 5 10 0 0 0 0 1
-description=T flip-flop with preset
+description=Toggle flip-flop with preset
 T 300 1400 5 10 1 1 0 0 1
 refdes=?
 P 700 1600 700 1300 1 0 0
