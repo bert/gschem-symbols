@@ -31,5 +31,4 @@ relief.sym                      relief valve (pressure operated)
 reservoir.sym                   reservoir
 temperature-indicator.sym       temperature indicator
 README                          this file
-.git                            here lives the git repository administration
-.gitignore                      let git ignore some file
+
