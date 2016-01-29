@@ -18,3 +18,5 @@ T 0 2300 5 10 0 0 0 0 1
 use-license=unlimited
 T 0 2500 5 10 0 0 0 0 1
 author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 0 2700 5 10 0 0 0 0 1
+description=Air tank
