@@ -1,4 +1,4 @@
-v 20100214 2
+v 20110115 2
 P 300 0 300 200 1 0 0
 A 300 1400 300 0 180 3 0 0 0 -1 -1
 L 0 600 0 1400 3 0 0 0 -1 -1
@@ -12,3 +12,9 @@ T 0 1800 5 10 0 0 0 0 1
 device=AIR_TANK
 T 700 1200 5 10 1 1 0 0 1
 refdes=A?
+T 0 2100 5 10 0 0 0 0 1
+dist-license=GPL
+T 0 2300 5 10 0 0 0 0 1
+use-license=unlimited
+T 0 2500 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
