@@ -2,7 +2,7 @@ v 20110115 2
 T 1100 200 5 4 1 1 0 6 1
 device=G_LATCH
 T 100 2400 5 10 0 0 0 0 1
-description=Latch
+description=latch
 T 300 1300 5 10 1 1 0 0 1
 refdes=?
 P 0 900 300 900 1 0 0
