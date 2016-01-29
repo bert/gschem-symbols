@@ -2,7 +2,7 @@ v 20110115 2
 T 700 0 5 4 1 1 0 6 1
 device=G_BUFB
 T 100 1600 5 10 0 0 0 0 1
-description=Single input buffer, inverted input
+description=single input buffer, inverted input
 T 300 600 5 10 1 1 0 0 1
 refdes=?
 P 0 300 300 300 1 0 0
