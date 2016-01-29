@@ -1,4 +1,4 @@
-v 20100214 2
+v 20110115 2
 P 0 700 200 700 1 0 0
 B 200 1000 600 600 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 L 200 1300 400 1300 3 0 0 0 -1 -1
@@ -23,3 +23,11 @@ T 0 2000 5 10 0 0 0 0 1
 device=DIRECTIONAL_CHECK_NO_2_2
 T 600 1700 5 10 1 1 0 0 1
 refdes=?
+T 0 2300 5 10 0 0 0 0 1
+dist-license=GPL
+T 0 2500 5 10 0 0 0 0 1
+use-license=unlimited
+T 0 2700 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 0 2900 5 10 0 0 0 0 1
+description=directional 2/2 check valve (Normally Open)
