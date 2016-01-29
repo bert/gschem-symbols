@@ -2,7 +2,7 @@ v 20110115 2
 T 950 0 5 4 1 1 0 6 1
 device=G_3NAND3
 T 100 2300 5 10 0 0 0 0 1
-description=NAND gate with 3 inputs, 3 inverted inputs
+description=NAND gate with 3 inputs, 3 inputs inverted
 T 300 1200 5 10 1 1 0 0 1
 refdes=?
 P 300 200 0 200 1 0 1
