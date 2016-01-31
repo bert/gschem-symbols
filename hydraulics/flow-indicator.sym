@@ -1,4 +1,4 @@
-v 20091004 2
+v 20110115 2
 P 0 500 200 500 1 0 0
 {
 T 100 300 5 10 0 1 0 6 1
@@ -25,14 +25,14 @@ T 0 1100 5 10 0 0 0 0 1
 device=FLOW_INDICATOR
 T 0 1500 5 10 0 0 0 0 1
 dist-license=GPL
-T 0 1900 5 10 0 0 0 0 1
-author=Bert Timmerman
 T 0 1300 5 10 0 0 0 0 1
 use-license=unlimited
-T 0 1700 5 10 0 0 0 0 1
-email=bert.timmerman@xs4all.nl
 T 500 500 9 10 1 0 0 4 1
 FI
 V 500 500 300 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 T 500 900 5 10 1 1 0 0 1
 refdes=?
+T 0 1700 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 0 1900 5 10 0 0 0 0 1
+description=flow indicator
