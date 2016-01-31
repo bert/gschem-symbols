@@ -1,4 +1,4 @@
-v 20091004 2
+v 20110115 2
 P 0 1600 200 1600 1 0 0
 B 200 1100 600 700 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 L 200 1600 400 1600 3 0 0 0 -1 -1
@@ -50,3 +50,11 @@ T 0 3100 5 10 0 0 0 0 1
 device=PROPORTIONAL_4_3
 T 900 2600 5 10 1 1 0 0 1
 refdes=?
+T 0 3800 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 0 4000 5 10 0 0 0 0 1
+description=proportional 4/3 valve
+T 0 3600 5 10 0 0 0 0 1
+use-license=unlimited
+T 0 3400 5 10 0 0 0 0 1
+dist-license=GPL
