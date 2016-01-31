@@ -118,6 +118,7 @@ components/SW_Apem_5556__.sym
 components/SW_Apem_5557__.sym
 components/SW_Apem_5566__.sym
 components/SW_Apem_5567__.sym
+components/SW_Apem_5646M__.sym
 components/SX28AC_DP.sym
 components/SX28AC_DP_np.sym
 components/SX28AC_DP_pwr.sym
@@ -142,6 +143,7 @@ components/pwr_Vcc_7_GND_4.sym
 components/pwr_Vcc_7_GND_8.sym
 components/pwr_Vcc_8_GND_4.sym
 generic/memristor.sym
+generic/nc.sym
 ghdl/G_2AND.sym
 ghdl/G_2AND1.sym
 ghdl/G_2AND2.sym
@@ -221,6 +223,7 @@ ghdl/G_TP.sym
 ghdl/G_TRI.sym
 ghdl/G_XNOR.sym
 ghdl/G_XOR.sym
+ghdl/README
 hydraulics/README
 hydraulics/accumulator.sym
 hydraulics/air-tank.sym
@@ -336,3 +339,4 @@ vhdl/PAD.sym
 vhdl/TAG_BIDIR.sym
 vhdl/TAG_INPUT.sym
 vhdl/TAG_OUTPUT.sym
+xspice/d_dff.sym
