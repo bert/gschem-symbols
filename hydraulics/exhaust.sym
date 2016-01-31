@@ -1,4 +1,4 @@
-v 20091004 2
+v 20110115 2
 P 200 700 200 500 1 0 0
 V 200 300 200 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 L 100 100 300 100 3 0 0 0 -1 -1
@@ -8,3 +8,11 @@ T 0 800 5 10 0 0 0 0 1
 device=EXHAUST
 T 500 400 5 10 1 1 0 0 1
 refdes=?
+T 0 1100 5 10 0 0 0 0 1
+dist-license=GPL
+T 0 1300 5 10 0 0 0 0 1
+use-license=unlimited
+T 0 1500 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 0 1700 5 10 0 0 0 0 1
+description=exhaust
