@@ -1,0 +1,9 @@
+A gschem symbol library for generic symbols.
+
+Symbol name                     Description
+--------------------------------------------------------------------------------
+50Ohm.sym                       50 Ohm, netlist directive
+diff_pair.sym                   differential pair, netlist directive
+memristor.sym                   generic memristor
+nc.sym                          not connected net, DRC directive
+README                          this file
