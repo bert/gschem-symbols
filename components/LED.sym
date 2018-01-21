@@ -1,4 +1,4 @@
-v 20070626 1
+v 20110115 2
 T 100 2800 5 10 0 0 0 0 1
 author=Bert Timmerman <bert.timmerman@xs4all.nl>
 T 100 2600 5 10 0 0 0 0 1
@@ -6,14 +6,12 @@ dist-license=GPL
 T 100 2400 5 10 0 0 0 0 1
 use-license=unlimited
 T 100 2200 5 10 0 0 0 0 1
-symversion=20090304
+symversion=20180121
 T 100 2000 5 10 0 0 0 0 1
 device=LED
 T 100 1800 5 10 0 0 0 0 1
 description=Generic LED
 T 100 1600 5 10 0 0 0 0 1
-symversion=20090304
-T 100 1400 5 10 0 0 0 0 1
 numslots=0
 T 450 550 5 10 1 1 0 0 1
 refdes=D?
