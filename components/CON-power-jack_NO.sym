@@ -1,0 +1,61 @@
+v 20110115 2
+T 100 2300 5 8 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 100 2100 5 8 0 0 0 0 1
+description=Generic power barrel jack Normally Open
+T 100 1900 5 8 0 0 0 0 1
+dist-license=GPL
+T 100 1700 5 8 0 0 0 0 1
+use-license=unlimited
+T 100 1500 5 8 0 0 0 0 1
+device=BARREL-JACK-NO
+T 100 1100 5 8 0 0 0 0 1
+symversion=20180706
+T 100 900 5 10 1 1 0 0 1
+refdes=J?
+P 800 700 600 700 1 0 0
+{
+T 695 745 5 8 0 1 0 0 1
+pinnumber=1
+T 750 750 5 8 0 1 90 0 1
+pinseq=1
+T 655 795 5 8 1 1 0 0 1
+pinlabel=1
+T 750 750 5 8 0 1 90 0 1
+pintype=pas
+}
+T 100 1300 5 8 0 0 0 0 1
+footprint=CON-power-jack-NO.fp
+P 800 400 600 400 1 0 0
+{
+T 695 445 5 8 0 1 0 0 1
+pinnumber=3
+T 750 450 5 8 0 1 90 0 1
+pinseq=3
+T 655 495 5 8 1 1 0 0 1
+pinlabel=3
+T 750 450 5 8 0 1 90 0 1
+pintype=pas
+}
+P 800 100 600 100 1 0 0
+{
+T 695 145 5 8 0 1 0 0 1
+pinnumber=2
+T 750 150 5 8 0 1 90 0 1
+pinseq=2
+T 655 195 5 8 1 1 0 0 1
+pinlabel=2
+T 750 150 5 8 0 1 90 0 1
+pintype=pas
+}
+A 300 700 25 90 180 3 0 0 0 -1 -1
+L 300 725 575 725 3 0 0 0 -1 -1
+L 300 675 575 675 3 0 0 0 -1 -1
+B 575 650 25 100 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+L 600 100 300 100 3 0 0 0 -1 -1
+L 300 100 275 150 3 0 0 0 -1 -1
+L 275 150 250 100 3 0 0 0 -1 -1
+L 600 400 425 400 3 0 0 0 -1 -1
+L 425 400 425 125 3 0 0 0 -1 -1
+L 425 125 450 175 3 0 0 0 -1 -1
+L 425 125 400 175 3 0 0 0 -1 -1
