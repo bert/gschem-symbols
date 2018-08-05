@@ -65,11 +65,15 @@ components/CB3LV.sym
 components/CNY17.sym
 components/CON-64.sym
 components/CON-BNC.sym
-components/CON-DIL-254P-2C-3R-6.sym
 components/CON-DIN41617-31p-female.sym
 components/CON-DIN41617-31p-male.sym
+components/CON-HDR-254P-2C-13R-26.sym
+components/CON-HDR-254P-2C-16R-32.sym
+components/CON-HDR-254P-2C-3R-6.sym
 components/CON-HDR-254P-2C-5R-10.sym
 components/CON-SIL-254P-10.sym
+components/CON-SIL-254P-12.sym
+components/CON-SIL-254P-16.sym
 components/CON-SIL-254P-2.sym
 components/CON-SIL-254P-3.sym
 components/CON-SIL-254P-31.sym
@@ -81,7 +85,9 @@ components/CON-SIL-254P-8.sym
 components/CON-TERM-2p.sym
 components/CON-TESTPOINT.sym
 components/CON-TP.sym
+components/CON-USB-MINI.sym
 components/CON-jumper.sym
+components/CON-power-jack_NO.sym
 components/CON-solder-jumper_NC.sym
 components/CON-solder-jumper_NO.sym
 components/CON_MAINS_SOCKET+SW_DPST.sym
@@ -97,6 +103,7 @@ components/EPS946639-1_pwr.sym
 components/EPS946639-2.sym
 components/EPS946639-2_np.sym
 components/EPS946639-2_pwr.sym
+components/FT232RL.sym
 components/GAL22V10_DIP24.sym
 components/GAL22V10_DIP24_np.sym
 components/GAL22V10_DIP24_pwr.sym
@@ -135,6 +142,7 @@ components/SW_Apem_5557__.sym
 components/SW_Apem_5566__.sym
 components/SW_Apem_5567__.sym
 components/SW_Apem_5646M__.sym
+components/SW_Lorlin___4p3t_.sym
 components/SX28AC_DP.sym
 components/SX28AC_DP_np.sym
 components/SX28AC_DP_pwr.sym
@@ -142,6 +150,7 @@ components/UAA170.sym
 components/UAA170_np.sym
 components/UAA170_pp.sym
 components/UAA170_pwr.sym
+components/XFMR_ERA_UI39-21__.sym
 components/ispGAL22V10_PLCC28.sym
 components/ispGAL22V10_PLCC28_np.sym
 components/ispGAL22V10_PLCC28_pwr.sym
