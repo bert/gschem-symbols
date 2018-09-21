@@ -9,3 +9,4 @@ nc.sym        | not connected net, DRC directive |
 ntc.sym       | negative temperature coefficient |
 ptc.sym       | positive temperature coefficient |
 README        | this file |
+tvs.sym       | transient voltage suppressor |
