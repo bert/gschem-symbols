@@ -1,4 +1,6 @@
-# Filename convention for powered components (active).
+# A gschem symbol library for component symbols.
+
+## Filename convention for powered components (active).
 
   - \*.sym contain power pins defined as nets (netlist).
   - \*_np.sym contain no power nets, nor power pins (passive).
@@ -67,13 +69,13 @@ CA3140_np.sym                | operational amplifier |
 CA3140_pp.sym                | operational amplifier |
 CA3140_pwr.sym               | operational amplifier |
 CA3140.sym                   | operational amplifier |
-CNY17.sym | |
+CNY17.sym                    | opto-coupler |
 CON-64.sym | |
-CON-BNC.sym | |
+CON-BNC.sym                  | BNC onnector |
 CON-DIN41617-31p-female.sym | |
 CON-DIN41617-31p-male.sym | |
 CON-HDR-254P-5C-2R-10.sym | |
-CON-jumper.sym | |
+CON-jumper.sym               | jumper |
 CON_MAINS_SOCKET+SW_DPST.sym | |
 CON-SIL-254P-10.sym | |
 CON-SIL-254P-2.sym | |
@@ -83,11 +85,11 @@ CON-SIL-254P-5.sym | |
 CON-SIL-254P-6.sym | |
 CON-SIL-254P-7.sym | |
 CON-SIL-254P-8.sym | |
-CON-solder-jumper_NC.sym | |
-CON-solder-jumper_NO.sym | |
+CON-solder-jumper_NC.sym     | solder jumper, Normally Close |
+CON-solder-jumper_NO.sym     | solder jumper, Normally Open |
 CON-TERM-2p.sym | |
-CON-TESTPOINT.sym | |
-CON-TP.sym | |
+CON-TESTPOINT.sym            | test point |
+CON-TP.sym                   | test point |
 DS1307Z.sym | |
 DS18B20_TO92.sym | |
 ELS-432x.sym | |
