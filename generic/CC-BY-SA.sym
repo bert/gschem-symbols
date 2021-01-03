@@ -1,0 +1,14 @@
+v 20130925 2
+T 100 900 5 10 0 0 0 0 1
+graphical=1
+B 80 100 820 200 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 500 200 9 8 1 0 0 4 1
+CC BY-SA
+T 100 700 5 10 0 0 0 0 1
+footprint=CC-BY-SA.fp
+T 100 500 5 10 0 0 0 0 1
+description=CC BY-SA copyright notice
+T 100 1300 5 10 0 0 0 0 1
+symversion=20210103
+T 100 1100 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
