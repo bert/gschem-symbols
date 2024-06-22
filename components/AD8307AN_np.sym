@@ -1,0 +1,86 @@
+v 20110115 2
+T 300 2000 5 10 1 1 0 0 1
+refdes=U?
+P 300 500 0 500 1 0 1
+{
+T 150 525 5 8 1 1 0 0 1
+pinnumber=1
+T 150 525 5 8 0 0 0 0 1
+pinseq=1
+T 100 500 5 10 0 1 0 0 1
+pintype=in
+T 400 500 9 10 1 1 0 4 1
+pinlabel=-
+}
+P 300 1100 0 1100 1 0 1
+{
+T 150 1125 5 8 1 1 0 0 1
+pinnumber=8
+T 150 1125 5 8 0 0 0 0 1
+pinseq=8
+T 100 1100 5 10 0 1 0 0 1
+pintype=in
+T 400 1100 9 10 1 1 0 4 1
+pinlabel=+
+}
+T 300 1800 5 10 1 1 0 0 1
+value=AD8307AN
+T 200 3400 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 200 3200 5 10 0 0 0 0 1
+description=Logarithmic amplifier
+T 200 3000 5 10 0 0 0 0 1
+dist-license=GPL
+T 200 2800 5 10 0 0 0 0 1
+use-license=unlimited
+T 200 2600 5 10 0 0 0 0 1
+device=AMP
+T 200 3600 5 10 0 0 0 0 1
+footprint=DIP08300____.fp
+T 200 3800 5 10 0 0 0 0 1
+symversion=20190407
+B 300 300 1000 1000 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 1600 800 1300 800 1 0 0
+{
+T 1600 800 5 10 0 0 0 0 1
+pintype=out
+T 1245 795 9 8 1 1 0 7 1
+pinlabel=OUT
+T 1395 845 5 10 1 1 0 0 1
+pinnumber=4
+T 1600 800 5 10 0 0 0 0 1
+pinseq=4
+}
+P 600 1600 600 1300 1 0 0
+{
+T 600 1700 5 10 0 0 0 0 1
+pintype=in
+T 600 1245 9 8 1 1 90 7 1
+pinlabel=OFFSET
+T 550 1395 5 10 1 1 90 0 1
+pinnumber=3
+T 600 1700 5 10 0 0 0 0 1
+pinseq=3
+}
+P 800 0 800 300 1 0 0
+{
+T 800 0 5 10 0 0 0 0 1
+pintype=in
+T 800 355 9 8 1 1 90 1 1
+pinlabel=ADJ
+T 750 205 5 10 1 1 90 6 1
+pinnumber=5
+T 800 0 5 10 0 0 0 0 1
+pinseq=5
+}
+P 1000 1600 1000 1300 1 0 0
+{
+T 1000 1700 5 10 0 0 0 0 1
+pintype=in
+T 1000 1245 9 8 1 1 90 7 1
+pinlabel=EN
+T 950 1395 5 10 1 1 90 0 1
+pinnumber=6
+T 1000 1700 5 10 0 0 0 0 1
+pinseq=6
+}
