@@ -1,4 +1,4 @@
-v 20110115 2
+v 20130925 2
 T 200 650 5 8 1 1 0 0 1
 value=LM78xx
 T 200 800 5 10 1 1 0 0 1
@@ -17,18 +17,18 @@ IN
 P 800 400 1000 400 1 0 1
 {
 T 850 450 5 10 1 1 0 0 1
-pinnumber=2
+pinnumber=3
 T 850 450 5 10 0 0 0 0 1
-pinseq=2
+pinseq=3
 }
 T 800 250 9 8 1 0 0 0 1
 OUT
 P 500 200 500 0 1 0 1
 {
 T 350 50 5 10 1 1 0 0 1
-pinnumber=3
+pinnumber=2
 T 350 50 5 10 0 0 0 0 1
-pinseq=3
+pinseq=2
 }
 T 550 50 9 8 1 0 0 0 1
 GND
@@ -50,4 +50,4 @@ numslots=1
 T 0 2200 5 8 0 0 0 0 1
 description=Generic positive voltage regulator
 T 0 1200 5 8 0 0 0 0 1
-symversion=20140104
+symversion=20240622

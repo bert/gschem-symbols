@@ -50,4 +50,4 @@ numslots=1
 T 0 2200 5 8 0 0 0 0 1
 description=Generic negative voltage regulator
 T 0 1200 5 8 0 0 0 0 1
-symversion=20140104
+symversion=20240622
