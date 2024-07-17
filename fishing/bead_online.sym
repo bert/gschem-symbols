@@ -1,0 +1,12 @@
+v 20110115 2
+T 200 500 8 10 1 1 0 3 1
+value=Size ?
+T 0 1400 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 0 1200 5 10 0 0 0 0 1
+description=bead
+T 0 1000 5 10 0 0 0 0 1
+dist-license=GPL
+T 0 800 5 10 0 0 0 0 1
+use-license=unlimited
+V 200 200 200 3 0 0 0 -1 -1 1 -1 -1 -1 -1 -1

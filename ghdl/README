@@ -1,0 +1,85 @@
+A gschem symbol library for describing ghdl circuits.
+
+Symbol name                     Description
+--------------------------------------------------------------------------------
+G_2AND1.sym                     AND gate with 2 inputs, 1 input inverted
+G_2AND2.sym                     AND gate with 2 inverted inputs
+G_2AND.sym                      AND gate with 2 inputs
+G_2NAND1.sym                    NAND gate with 2 inputs, 1 input inverted
+G_2NAND2.sym                    NAND gate with 2 inverted inputs
+G_2NAND.sym                     NAND gate with 2 inputs
+G_2NOR1.sym                     NOR gate with 2 inputs, 1 input inverted
+G_2NOR2.sym                     NOR gate with 2 inputs, 2 inputs inverted
+G_2NOR.sym                      NOR gate with 2 inputs
+G_2OR1.sym                      OR gate with 2 inputs, 1 input inverted
+G_2OR2.sym                      OR gate with 2 inputs, 2 inputs inverted
+G_2OR.sym                       OR gate with 2 inputs
+G_3AND1.sym                     AND gate with 3 inputs, 1 input inverted
+G_3AND2.sym                     AND gate with 3 inputs, 2 inputs inverted
+G_3AND3.sym                     AND gate with 3 inputs, 3 inputs inverted
+G_3AND.sym                      AND gate with 3 inputs
+G_3NAND1.sym                    NAND gate with 3 inputs, 1 input inverted
+G_3NAND2.sym                    NAND gate with 3 inputs, 2 inputs inverted
+G_3NAND3.sym                    NAND gate with 3 inputs, 3 inputs inverted
+G_3NAND.sym                     NAND gate with 3 inputs
+G_3NOR1.sym                     NOR gate with 3 inputs, 1 input inverted
+G_3NOR2.sym                     NOR gate with 3 inputs, 2 inputs inverted
+G_3NOR3.sym                     NOR gate with 3 inputs, 3 inputs inverted
+G_3NOR.sym                      NOR gate with 3 inputs
+G_3OR1.sym                      OR gate with 3 inputs, 1 input inverted
+G_3OR2.sym                      OR gate with 3 inputs, 2 inputs inverted
+G_3OR3.sym                      OR gate with 3 inputs, 3 inputs inverted
+G_3OR.sym                       OR gate with 3 inputs
+G_4AND1.sym                     AND gate with 4 inputs, 1 inverted input
+G_4AND2.sym                     AND gate with 4 inputs, 2 inverted inputs
+G_4AND3.sym                     AND gate with 4 inputs, 3 inverted inputs
+G_4AND4.sym                     AND gate with 4 inputs, 4 inverted inputs
+G_4AND.sym                      AND gate with 4 inputs
+G_4NAND1.sym                    NAND gate with 4 inputs, 1 inverted input
+G_4NAND2.sym                    NAND gate with 4 inputs, 2 inverted inputs
+G_4NAND3.sym                    NAND gate with 4 inputs, 3 inverted inputs
+G_4NAND4.sym                    NAND gate with 4 inputs, 4 inverted inputs
+G_4NAND.sym                     NAND gate with 4 inputs
+G_4NOR1.sym                     NOR gate with 4 inputs, 1 inverted input
+G_4NOR2.sym                     NOR gate with 4 inputs, 2 inverted inputs
+G_4NOR3.sym                     NOR gate with 4 inputs, 3 inverted inputs
+G_4NOR4.sym                     NOR gate with 4 inputs, 4 inverted inputs
+G_4NOR.sym                      NOR gate with 4 inputs
+G_4OR1.sym                      OR gate with 4 inputs, 1 inverted input
+G_4OR2.sym                      OR gate with 4 inputs, 2 inverted inputs
+G_4OR3.sym                      OR gate with 4 inputs, 3 inverted inputs
+G_4OR4.sym                      OR gate with 4 inputs, 4 inverted inputs
+G_4OR.sym                       OR gate with 4 inputs
+G_BIDIR.sym                     bi-directional io-pad
+G_BUFB.sym                      single input buffer, inverted input
+G_BUF.sym                       single input buffer
+G_CLKBUF.sym                    clock buffered input io-pad
+G_DC.sym                        D flip-flop with asynchronous clear
+G_DEC.sym                       D flip-flop with scan and asynchronous clear
+G_DEPC.sym                      D flip-flop with scan and asynchronous clear and preset
+G_DEP.sym                       D flip-flop with scan and preset
+G_DPC.sym                       D flip-flop with asynchronous clear and preset
+G_DP.sym                        D flip-flop with preset
+G_D.sym                         D flip-flop
+G_FADD.sym                      Full adder
+G_HADD.sym                      Half adder
+G_INPUT.sym                     input io-pad
+G_INV.sym                       single input inverter
+G_JKC.sym                       JK flip-flop with asynchronous clear
+G_JKP.sym                       JK flip-flop with preset
+G_JK.sym                        JK flip-flop
+G_LATCH.sym                     latch
+G_MUX21.sym                     2 to 1 multiplexer
+G_MUX41.sym                     4 to 1 multiplexer
+G_OUTPUT.sym                    output io-pad
+G_RSC.sym                       RS flip-flop with asynchronous clear
+G_RSP.sym                       RS flip-flop with preset
+G_RS.sym                        RS flip-flop
+G_TC.sym                        Toggle flip-flop with asynchronous clear
+G_TP.sym                        Toggle flip-flop with preset
+G_TRI.sym                       tri-state io-pad
+G_T.sym                         Toggle flip-flop
+G_XNOR.sym                      Exclusive NOR gate with 2 inputs
+G_XOR.sym                       Exclusive OR gate with 2 inputs
+README                          this file
+

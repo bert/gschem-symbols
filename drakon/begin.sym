@@ -1,0 +1,26 @@
+v 20110115 2
+P 600 0 600 200 1 0 0
+{
+T 600 0 5 10 0 0 90 0 1
+pintype=unknown
+T 600 255 5 10 0 0 90 0 1
+pinlabel=unknown
+T 550 105 5 10 0 0 90 6 1
+pinnumber=0
+T 600 0 5 10 0 0 90 0 1
+pinseq=0
+}
+T 600 400 5 10 1 1 0 4 1
+value=BEGIN
+T 0 1400 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 0 1200 5 10 0 0 0 0 1
+description=BEGIN label
+T 0 1000 5 10 0 0 0 0 1
+dist-license=GPL
+T 0 800 5 10 0 0 0 0 1
+use-license=unlimited
+A 200 400 200 90 180 3 0 0 0 -1 -1
+A 1000 400 200 270 180 3 0 0 0 -1 -1
+L 200 600 1000 600 3 0 0 0 -1 -1
+L 1000 200 200 200 3 0 0 0 -1 -1

@@ -1,0 +1,18 @@
+v 20110115 2
+B 100 100 800 200 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 500 200 9 8 1 0 0 4 1
+Made in NL
+T 100 2200 5 10 0 0 0 0 1
+author=Bert Timmerman
+T 100 2000 5 10 0 0 0 0 1
+description=Made in NL
+T 100 1800 5 10 0 0 0 0 1
+dist-license=GPL
+T 100 1600 5 10 0 0 0 0 1
+use-license=unlimited
+T 100 1000 5 10 0 0 0 0 1
+symversion=20180915
+T 100 1400 5 10 0 0 0 0 1
+graphical=1
+T 100 1200 5 10 0 0 0 0 1
+footprint=NL_contour_filled_150x188.fp

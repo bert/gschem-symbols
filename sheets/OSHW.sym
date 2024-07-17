@@ -1,0 +1,16 @@
+v 20110115 2
+B 100 100 1600 200 3 0 1 0 -1 -1 0 -1 -1 -1 -1 -1
+T 900 200 9 8 1 0 0 4 1
+Open Source HardWare
+T 100 2200 5 10 0 0 0 0 1
+author=Bert Timmerman
+T 100 2000 5 10 0 0 0 0 1
+description=Open Source HardWare
+T 100 1800 5 10 0 0 0 0 1
+dist-license=GPL
+T 100 1600 5 10 0 0 0 0 1
+use-license=unlimited
+T 100 1200 5 10 0 0 0 0 1
+symversion=20201223
+T 100 1400 5 10 0 0 0 0 1
+graphical=1

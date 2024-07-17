@@ -1,0 +1,16 @@
+v 20110115 2
+T 200 400 8 10 1 1 0 3 1
+value=Size ?
+T 0 1300 5 10 0 0 0 0 1
+author=Bert Timmerman <bert.timmerman@xs4all.nl>
+T 0 1100 5 10 0 0 0 0 1
+description=hook
+T 0 900 5 10 0 0 0 0 1
+dist-license=GPL
+T 0 700 5 10 0 0 0 0 1
+use-license=unlimited
+V 100 100 100 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+L 200 100 900 100 3 0 0 0 -1 -1
+A 900 300 200 270 180 3 0 0 0 -1 -1
+L 900 500 800 500 3 0 0 0 -1 -1
+L 800 500 850 470 3 0 0 0 -1 -1
