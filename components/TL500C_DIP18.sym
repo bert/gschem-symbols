@@ -74,7 +74,7 @@ use-license=unlimited
 T 295 6200 5 10 0 0 0 0 1
 device=ANALOG_PROCESSOR
 T 295 6000 5 10 0 0 0 0 1
-footprint=DIP18300.fp
+footprint=DIP18300____.fp
 P 2200 5300 2200 5000 1 0 0
 {
 T 2200 5000 5 10 0 0 0 0 1
@@ -109,7 +109,7 @@ T 400 2800 5 10 1 1 0 0 1
 pinlabel=IN-
 }
 T 295 5800 5 10 0 0 0 0 1
-symversion=20250204
+symversion=20250213
 P 300 2000 0 2000 1 0 1
 {
 T 0 2050 5 8 1 1 0 0 1
